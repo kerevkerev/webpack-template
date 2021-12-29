@@ -1,0 +1,20 @@
+{
+  "name": "webpackk",
+  "version": "1.0.0",
+  "description": "webpack-template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kerevkerev/webpack-template.git"
+  },
+  "keywords": [],
+  "author": "kerev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kerevkerev/webpack-template/issues"
+  },
+  "homepage": "https://github.com/kerevkerev/webpack-template#readme"
+}
