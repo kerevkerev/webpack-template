@@ -4,7 +4,8 @@
   "description": "webpack-template",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "webpack serve --open",
+    "dev": ""
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/kerevkerev/webpack-template/issues"
   },
-  "homepage": "https://github.com/kerevkerev/webpack-template#readme"
+  "homepage": "https://github.com/kerevkerev/webpack-template#readme",
+  "devDependencies": {
+    "webpack": "^5.65.0",
+    "webpack-cli": "^4.9.1",
+    "webpack-dev-server": "^4.7.1"
+  }
 }
